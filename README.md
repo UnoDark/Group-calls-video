@@ -11,7 +11,7 @@ $ python -m lib
 ```
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/galihmrd/Group-calls-video)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UnoDark/Group-calls-video)
 
 
 # Credit
