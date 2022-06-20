@@ -1,8 +1,8 @@
 {
-    "name": "VideoStream",
+    "name": "HINATA",
     "description": "VideoStream allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["bot", "telegram"],
-    "repository": "https://github.com/galihmrd/Group-calls-video",
+    "repository": "https://github.com/UnoDark/Group-calls-video",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
